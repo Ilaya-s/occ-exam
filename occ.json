@@ -1,0 +1,14 @@
+{
+  "title": "My Sample Website",
+  "description": "This is a sample JSON file hosted on GitHub Pages.",
+  "author": {
+    "name": "s.Ilayabharathi",
+    "email": "s.ilayabharathi8220.com"
+  },
+  "features": [
+    "Fast loading",
+    "Mobile responsive",
+    "Open source"
+  ],
+  "version": "1.0.0"
+}
